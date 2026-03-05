@@ -130,7 +130,7 @@ Player can play:
 
 ## 👨‍💻 Author
 
-Developed as a **Programming Fundamentals / Data Structures project in C++**.
+Developed as a **Programming Fundamentals project in C++**.
 
 ---
 
