@@ -1,0 +1,24 @@
+07
+06
+01
+Player 02, won the game
+Player1 moves = 30
+Player2 moves = 60
+Player 01, won the game
+Player1 moves = 24
+Player2 moves = 80
+Player 01, won the game
+Player1 moves = 24
+Player2 moves = 80
+Player 01, won the game
+Player1 moves = 24
+Player2 moves = 80
+Player 01 won the game
+Player1 moves = 32
+Player2 moves = 24
+Player 01 won the game
+Player1 moves = 09
+Player2 moves = 05
+Player 01 won the game
+Player1 moves = 21
+Player2 moves = 21

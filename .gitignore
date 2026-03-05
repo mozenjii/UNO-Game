@@ -1,0 +1,67 @@
+# -------------------------------
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# -------------------------------
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# -------------------------------
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# -------------------------------
+# IDE / editor settings
+.vs/                # Visual Studio
+.vscode/            # VS Code
+.idea/              # JetBrains IDEs
+*.swp
+*.swo
+
+# Visual Studio project files
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+
+# Visual Studio build folders
+Debug/
+Release/
+x64/
+bin/
+obj/
+
+# -------------------------------
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# -------------------------------
+# Logs and temporary files
+*.log
+*.tmp
+
+# -------------------------------
+# C++ build artifacts
+*.exe
+*.dll
+*.lib
+*.obj
+*.o
+*.out
+*.pdb
+*.idb
+*.ilk
+
+# -------------------------------
+# Temporary source files
+temp.cpp
+*tempCodeRunnerFile.cpp
+*tempCodeRunnerFile.py
