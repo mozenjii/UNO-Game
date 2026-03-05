@@ -4,7 +4,7 @@ A terminal-based implementation of the classic **UNO card game** written in **C+
 
 
 <p align="center">
-  <img src="preveiw.png" alt="UNO Game Preview" width="400"/>
+  <img src="preview.png" alt="UNO Game Preview" width="400"/>
 </p>
 
 ---
@@ -107,7 +107,7 @@ Player can play:
 ## 📸 Preview
 
 <p align="center">
-  <img src="preveiw.png" alt="UNO Game Preview" width="400"/>
+  <img src="preview.png" alt="UNO Game Preview" width="400"/>
 </p>
 
 ---
