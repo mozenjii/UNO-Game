@@ -45,9 +45,8 @@ This project applies several **Data Structures and Programming Concepts**:
 ```
 UNO/
 │
-├── FinalPF.cpp        # Main game source code
-├── preview/
-│   └── UNO_preveiw.png
+├── main.cpp        # Main game source code
+├── preveiw.png
 ├── README.md
 ```
 
@@ -58,7 +57,7 @@ UNO/
 Compile the project using **g++**:
 
 ```bash
-g++ FinalPF.cpp -o uno
+g++ main.cpp -o uno
 ```
 
 ---
@@ -108,7 +107,7 @@ Player can play:
 ## 📸 Preview
 
 <p align="center">
-  <img src="preview/UNO_preveiw.png" alt="UNO Game Preview" width="400"/>
+  <img src="preveiw.png" alt="UNO Game Preview" width="400"/>
 </p>
 
 ---
