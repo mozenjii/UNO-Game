@@ -26,19 +26,6 @@ A terminal-based implementation of the classic **UNO card game** written in **C+
 
 ---
 
-## 🧠 Concepts Used
-
-This project applies several **Data Structures and Programming Concepts**:
-
-- Object-Oriented Programming (Classes & Objects)
-- Dynamic Memory Management
-- Linked Lists
-- Stacks / Queues
-- File Handling
-- Game State Management
-- Modular Code Design
-
----
 
 ## 📂 Project Structure
 
@@ -130,7 +117,7 @@ Player can play:
 
 ## 👨‍💻 Author
 
-Developed as a **Programming Fundamentals project in C++**.
+Developed as a **complete shenanigan**.
 
 ---
 
